@@ -1,0 +1,11 @@
+E:\Program\EshopApp\EshopApp.Shared\bin\Debug\net8.0\EshopApp.Shared.deps.json
+E:\Program\EshopApp\EshopApp.Shared\bin\Debug\net8.0\EshopApp.Shared.dll
+E:\Program\EshopApp\EshopApp.Shared\bin\Debug\net8.0\EshopApp.Shared.pdb
+E:\Program\EshopApp\EshopApp.Shared\obj\Debug\net8.0\EshopApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program\EshopApp\EshopApp.Shared\obj\Debug\net8.0\EshopApp.Shared.AssemblyInfoInputs.cache
+E:\Program\EshopApp\EshopApp.Shared\obj\Debug\net8.0\EshopApp.Shared.AssemblyInfo.cs
+E:\Program\EshopApp\EshopApp.Shared\obj\Debug\net8.0\EshopApp.Shared.csproj.CoreCompileInputs.cache
+E:\Program\EshopApp\EshopApp.Shared\obj\Debug\net8.0\EshopApp.Shared.dll
+E:\Program\EshopApp\EshopApp.Shared\obj\Debug\net8.0\refint\EshopApp.Shared.dll
+E:\Program\EshopApp\EshopApp.Shared\obj\Debug\net8.0\EshopApp.Shared.pdb
+E:\Program\EshopApp\EshopApp.Shared\obj\Debug\net8.0\ref\EshopApp.Shared.dll

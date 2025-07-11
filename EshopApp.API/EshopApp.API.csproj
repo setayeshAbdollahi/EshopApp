@@ -1,0 +1,34 @@
+<!--
+  Project file for the EshopApp.API ASP.NET Core Web API.
+  Defines target framework, package dependencies, and project references.
+  - TargetFramework: Specifies the .NET version used for building the project.
+  - PackageReference: Lists NuGet packages required for API functionality, validation, OpenAPI/Swagger, and EF Core design-time tools.
+  - ProjectReference: References to other solution projects for application, infrastructure, persistence, shared, and domain layers.
+-->
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.16" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.7">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EshopApp.Application\EshopApp.Application.csproj" />
+    <ProjectReference Include="..\EshopApp.Infrastructure\EshopApp.Infrastructure.csproj" />
+    <ProjectReference Include="..\EshopApp.Persistence\EshopApp.Persistence.csproj" />
+    <ProjectReference Include="..\EshopApp.Shared\EshopApp.Shared.csproj" />
+    <ProjectReference Include="..\EshopApp.Domain\EshopApp.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

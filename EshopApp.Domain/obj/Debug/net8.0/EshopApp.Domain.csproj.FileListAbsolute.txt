@@ -1,0 +1,15 @@
+E:\Program\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Domain.deps.json
+E:\Program\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Domain.dll
+E:\Program\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Domain.pdb
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.AssemblyInfoInputs.cache
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.AssemblyInfo.cs
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.csproj.CoreCompileInputs.cache
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.dll
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\refint\EshopApp.Domain.dll
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.pdb
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\ref\EshopApp.Domain.dll
+E:\Program\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Shared.dll
+E:\Program\EshopApp\EshopApp.Domain\bin\Debug\net8.0\EshopApp.Shared.pdb
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.Domain.csproj.AssemblyReference.cache
+E:\Program\EshopApp\EshopApp.Domain\obj\Debug\net8.0\EshopApp.7E9C0053.Up2Date
